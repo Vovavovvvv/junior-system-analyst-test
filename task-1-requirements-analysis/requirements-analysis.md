@@ -2,7 +2,7 @@
 
 ## ER-диаграмма корзины
 
-![ER Diagram](cart-er-diagram.png)
+![ER Diagram](cart-er-diagram.png.png)
 
 ## Найденные противоречия и недочеты
 
